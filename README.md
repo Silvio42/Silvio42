@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**Silvio42/Silvio42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display:inline_block"><br/>
+<img align="center" alt="Siv-python" height="20" width="18"src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f4da.png"> <font color="#000000"><font size="4"> <font face="Georgia"> <size=""> Software Engineering Student </font> <br/>
+<br/>
 
-Here are some ideas to get you started:
+## My skills
+<div style="display:inline_block">
+<img align="center" alt="Siv-python" height="40" width="50"src="https://icon-library.com/images/java-icon-png/java-icon-png-15.jpg">
+<img align="center" alt="Siv-html5" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img align="center" alt="Siv-html5" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img align="center" alt="Siv-html5" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+<img align="center" alt="Siv-html5" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> <br/>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvio-j-oliveira-541b6a211/)
+
+</div>

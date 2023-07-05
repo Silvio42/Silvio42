@@ -1,5 +1,8 @@
 # Bem vindos ao meu GitHub👋
 
+**Meu nome é silvio, sou estudante da UTFPR de Engenharia de Software**
+*6º período*
+
 <div style="display:inline_block"><br/>
 <img align="center" alt="Siv-python" height="20" width="18"src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f4da.png"> <font color="#000000"><font size="4"> <font face="Georgia"> <size=""> Software Engineering Student </font> <br/>
 <br/>

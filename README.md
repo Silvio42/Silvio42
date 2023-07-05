@@ -5,7 +5,7 @@
 
 ## Linguagens e tecnologias que eu utilizo no meu trabalho:
 
-* Delhpi
+* Delhpi ![Logo do Delphi](img/delphi.png)
 * PL/SQL
 * PHP
 * HTML

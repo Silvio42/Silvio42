@@ -6,7 +6,7 @@
 
 <div style="display:inline_block">
 Delhpi <img align="center" alt="Siv-delphy" height="40" width="50"src="img/delphi.png">
-PL/SQL <img align="center" alt="Siv-plsql" height="40" width="50"src="img/delphi.png">
+PL/SQL <img align="center" alt="Siv-plsql" height="40" width="50"src="img/plsql.png">
 <br/>
 
 ## Linguagens e tecnologias que eu estudo e tenho conhecimento:

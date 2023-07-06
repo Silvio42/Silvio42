@@ -7,6 +7,10 @@
 <div style="display:inline_block">
 Delhpi <img align="center" alt="Siv-delphy" height="40" width="50"src="img/delphi.png">
 PL/SQL <img align="center" alt="Siv-plsql" height="40" width="50"src="img/plsql.png">
+Java <img align="center" alt="Siv-java" height="40" width="50"src="img/java.png">
+PHP <img align="center" alt="Siv-php" height="40" width="50"src="img/php.png">
+HTML <img align="center" alt="Siv-html" height="40" width="50"src="img/html.png">
+SQL <img align="center" alt="Siv-sql" height="40" width="50"src="img/sql.png">
 <br/>
 
 ## Linguagens e tecnologias que eu estudo e tenho conhecimento:

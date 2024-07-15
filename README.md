@@ -20,11 +20,11 @@
 <div style="display:inline_block">
 <ul>
   <li>C <img align="center" alt="Siv-c" height="40" width="50" src="img/c.png"></li>
-  <li>MySQL <img align="center" alt="Siv-plsql" height="40" width="50" src="img/plsql.png"></li>
-  <li>Git <img align="center" alt="Siv-java" height="40" width="50" src="img/java.png"></li>
-  <li>GitHub <img align="center" alt="Siv-php" height="40" width="50" src="img/php.png"></li>
-  <li>Python <img align="center" alt="Siv-html" height="40" width="50" src="img/html.png"></li>
-  <li>Linux <img align="center" alt="Siv-sql" height="40" width="50" src="img/sql.png"></li>
+  <li>MySQL <img align="center" alt="Siv-plsql" height="40" width="50" src="img/mysql.png"></li>
+  <li>Git <img align="center" alt="Siv-java" height="40" width="50" src="img/git.png"></li>
+  <li>GitHub <img align="center" alt="Siv-php" height="40" width="50" src="img/github.png"></li>
+  <li>Python <img align="center" alt="Siv-html" height="40" width="50" src="img/python.png"></li>
+  <li>Linux <img align="center" alt="Siv-sql" height="40" width="50" src="img/linux.png"></li>
 </ul>
 <br/>
 

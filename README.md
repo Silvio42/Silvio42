@@ -1,6 +1,6 @@
 # Bem vindos ao meu GitHub👋
 
-**Meu nome é Silvio, sou estudante de Engenharia de Software na UTFPR (Universidade Tecnológica Federal do Paraná) e trabalho como Analista de Sistemas na Solus Computação.**
+**Meu nome é Silvio, sou formado em Engenharia de Software pela UTFPR (Universidade Tecnológica Federal do Paraná) e atualmente estou cursando mestrado em Inteligência Artificial na mesma instituição. Trabalho como Desenvolvedor Node.js (APIs RESTful) na AEBEL, em Londrina. Ainda estou atualizando meu perfil, algumas tecnologias listadas aqui são da minha primeira experiência profissional.**
 
 ## Linguagens e tecnologias que eu utilizo no meu trabalho:
 

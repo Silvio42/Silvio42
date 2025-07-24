@@ -28,6 +28,13 @@
 </ul>
 <br/>
 
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silvio42&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Silvio42&show_icons=true&theme=tokyonight)
+
+---
+
 ## Contact 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvio-jorge-541b6a211/)
